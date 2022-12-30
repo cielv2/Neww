@@ -1,0 +1,50 @@
+
+-------------------
+
+MODULE NYA PAKAI YG GW KASIH BIAR GA ERROR
+
+-------------------
+
+UPDATE FITUR? CEK AJA DI ALLMENU 
+
+-------------------
+
+WA GW : wa.me/62895340684706
+
+-------------------
+
+BOT : wa.me/6289652333947
+
+-------------------
+
+MAKE DOANG DONASI KAGAK🗿
+
+-------------------
+
+# CARA PENGINSTALAN DI TERMUX:
+
+ [••] Yang Diperlukan 
+- Apk Termux:
+https://is.gd/ehTulP
+
+- Apk Mt Manager:
+https://is.gd/wFIjUW
+
+- Module:
+https://is.gd/UhRVOA
+
+- Command:
+
+$ pkg update && pkg upgrade 
+$ pkg install nodejs 
+$ pkg install ffmpeg
+$ pkg install libwebp
+$ pkg install git 
+$ pkg install yarn
+$ termux-setup-storage
+$ cd /sdcard
+$ cd V11
+$ npm start
+Scan Qr Nya 
+
+-------------------
